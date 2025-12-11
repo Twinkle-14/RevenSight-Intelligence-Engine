@@ -1,4 +1,9 @@
 # RevenSight™ Intelligence Engine  
+### 🔗 Live Agent  
+https://agent.ai/agent/llue6425uw4q4igbdonr  
+
+---
+
 AI agent that analyzes a sales deal and generates a full deal report including:
 
 - Risk Score  
@@ -9,11 +14,6 @@ AI agent that analyzes a sales deal and generates a full deal report including:
 - AE Coaching Tips  
 - Key Risks + Next Actions  
 - Full HTML UI with charts and progress bars  
-
-### 🔗 Live Agent  
-https://agent.ai/agent/llue6425uw4q4igbdonr  
-
----
 
 ## 📌 How It Works
 
