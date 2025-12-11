@@ -1,0 +1,20 @@
+Using analysis_data JSON, generate a clean, modern HTML report.
+
+Sections required:
+- Risk Overview (score + bar)
+- Probability of Close (bar)
+- Deal Health
+- ICP Fit Score
+- Revenue Forecast
+- Key Risks (bullets)
+- Next Actions (ordered list)
+- AE Coaching Tips (bullets)
+
+Style:
+- Rounded cards
+- Light shadows
+- Icons for each section
+- Spacing between cards
+- Score bars using <div> width percentages
+
+Return ONLY HTML (no markdown, no <html>/<body> wrapper).

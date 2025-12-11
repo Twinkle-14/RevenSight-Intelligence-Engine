@@ -1,0 +1,21 @@
+Analyze this deal and return JSON with the following fields:
+
+risk_score (0–100)
+risk_summary
+probability_close (0–100)
+probability_summary
+key_risks[] (3–6 bullets)
+next_actions[] (3–6 steps)
+deal_health_score
+deal_health_summary
+
+forecasted_revenue
+revenue_score (0–100)
+revenue_explanation
+
+icp_score (0–10)
+icp_interpretation
+
+ae_tips[] (3–5 bullet points)
+
+Return ONLY valid JSON. No extra explanation.
